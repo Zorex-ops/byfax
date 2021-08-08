@@ -98,7 +98,7 @@ body{
 /* INTRO*/
 
 .intro{
-	background: url(/img/intro/фон@1X.png);
+	background: url(../img/intro/фон@1X.png);
 	background-position: center;
 	background-repeat: no-repeat;
 	background-size: cover;
@@ -254,7 +254,7 @@ opacity: 0.7;
 
 /*INTRO CONTANT*/
 .intro__contant{
-	background: url(/img/intro/карта.svg);
+	background: url(../img/intro/карта.svg);
 	background-position: center;
 	background-repeat: no-repeat;
 	background-size: contain ;
@@ -533,7 +533,7 @@ margin: 0 auto;
 	padding: 0px 5px;
 	flex: 0 1 50%;
 	margin-top: 50px;
-	background: url(/img/offer/графика.svg);
+	background: url(../img/offer/графика.svg);
 	background-position: center;
 	background-repeat: no-repeat;
 	background-size: contain ;
